@@ -1,0 +1,14 @@
+material Menu
+{
+	technique
+	{
+		pass
+		{
+			texture_unit
+			{
+				texture menu.jpg
+				tex_address_mode wrap
+			}
+		}
+	}
+}
